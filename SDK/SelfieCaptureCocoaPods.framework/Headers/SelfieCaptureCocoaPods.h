@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <DocumentCaptureCocoaPods/MessageViewController.h>
+#import <SelfieCaptureCocoaPods/MessageViewController.h>
 //! Project version number for SelfieCaptureCocoaPods.
 FOUNDATION_EXPORT double SelfieCaptureCocoaPodsVersionNumber;
 
