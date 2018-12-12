@@ -1,0 +1,6 @@
+framework module SelfieCocoaPodFramework {
+  umbrella header "SelfieCocoaPodFramework.h"
+
+  export *
+  module * { export * }
+}
